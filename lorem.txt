@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 console.log("HelloWord")
+=======
+console.log("Hola mundo")
+>>>>>>> text-in-lorem
